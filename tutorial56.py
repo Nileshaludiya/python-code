@@ -1,3 +1,10 @@
+# Reverse a String
+# Problem: Given a string, return its reverse.
+# Example:
+
+# Input: "hello"
+# Output: "olleh"
+
 def reversed_string(str1):
     length = len(str1)
     # print(length)
