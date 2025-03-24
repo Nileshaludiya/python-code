@@ -1,3 +1,9 @@
+
+
+
+
+
+
 light= input("light =")
 if(light=="red"):
     print("stop")
