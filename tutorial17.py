@@ -1,3 +1,5 @@
+# Take an integer A as input. You have to tell whether A is divible by both 5 and 11 or not.	
+
 def divisiblenumber(num):
     if(num%5==0):
         if(num%11==0):
