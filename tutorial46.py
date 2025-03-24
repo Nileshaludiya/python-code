@@ -1,3 +1,10 @@
+# "Problem:
+# Write a function to reverse the binary representation of a number using division by 2.
+
+# Example:
+# Input: n = 6 (Binary: 110)
+# Output: 011 (Binary of 3)"	
+
 def con_to_binary(num):
     binary_number = ""
     while num > 0:
