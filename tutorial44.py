@@ -1,3 +1,9 @@
+# "Write a function to count the number of 1s in a binary representation of a number using division by 2.
+
+# Example:
+# Input: n = 13 (Binary: 1101)
+# Output: 3"		
+
 def decimal_to_binary(num):
     binary_number = ""
     a = 0
