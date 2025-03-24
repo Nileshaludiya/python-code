@@ -1,3 +1,8 @@
+# "convert a number to decimal to binary without using built-in functions 
+# input= 1010
+# output = 10
+# "	
+
 def con_binary_to_decimal(num):
     decimal_number = 0
     i = 0
