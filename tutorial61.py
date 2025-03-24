@@ -1,3 +1,9 @@
+# """Count the Number of Vowels and Consonants
+# Problem: Given a string, count the number of vowels and consonants in it.
+# Example:
+# Input: """"hello""""
+# Output: Vowels: 2, Consonants: 3"""	
+
 def check_vowel_consonant(text):
     vowel = "aeiouAEIOU"
     vow = 0
