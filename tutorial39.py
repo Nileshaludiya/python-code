@@ -1,3 +1,11 @@
+# Count Even and Odd Digits in a Number
+# Problem: Given a number N, count how many digits are even and how many are odd.
+# Example:
+
+# Input:  482351  
+# Output: Even: 3, Odd: 3 
+
+
 value = int(input("Enter a value: "))
 A = len(str(value))
 print("Total value: ",A)
