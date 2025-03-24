@@ -1,3 +1,10 @@
+# Find the Longest Word in a Sentence
+# Problem: Given a sentence, find the longest word.
+# Example:
+
+# Input: "I love programming"
+# Output: "programming"
+
 def longest_world(text):
     list1 = text.split()
     
