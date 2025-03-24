@@ -1,3 +1,9 @@
+# Check if a String is a Palindrome
+# Problem: Given a string, check if it reads the same forward and backward.
+# Example:
+# Input: "racecar"
+# Output: True
+
 def check_palindrome(s):
     a = s[::-1]
     if s == a :
